@@ -1,8 +1,6 @@
 
-<!Doctype HTML>
 <html>
 <head>
-<title>My Github Page</title>
 </head>
 <body>
 <h1>Welcome to my website</h1>
